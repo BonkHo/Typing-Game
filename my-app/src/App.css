@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap");
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Noto Sans JP", sans-serif;
+}
+
+body {
+    text-align: center;
+}
+
+.highlight {
+    background-color: yellow;
+    border-radius: 4px;
+}
+
+.error {
+    background-color: lightcoral;
+    border: red;
+    border-radius: 4px;
+}
